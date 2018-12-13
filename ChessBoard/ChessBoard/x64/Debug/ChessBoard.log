@@ -1,0 +1,4 @@
+﻿  ChessBoard.cpp
+g:\牛客网\c_exercise\chessboard\chessboard\chessboard.cpp(13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ChessBoard.vcxproj -> G:\牛客网\C_Exercise\x64\Debug\ChessBoard.exe
+  ChessBoard.vcxproj -> G:\牛客网\C_Exercise\x64\Debug\ChessBoard.pdb (Full PDB)

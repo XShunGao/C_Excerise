@@ -1,0 +1,4 @@
+﻿  test.cpp
+g:\牛客网\c_exercise\测试专用\test.cpp(20): warning C4129: “ ”: 不可识别的字符转义序列
+  测试专用.vcxproj -> G:\牛客网\C_Exercise\x64\Debug\测试专用.exe
+  测试专用.vcxproj -> G:\牛客网\C_Exercise\x64\Debug\测试专用.pdb (Full PDB)

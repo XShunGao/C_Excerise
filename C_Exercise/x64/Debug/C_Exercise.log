@@ -1,0 +1,4 @@
+﻿  CodeList.cpp
+g:\牛客网\c_exercise\c_exercise\codelist.cpp(106): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  C_Exercise.vcxproj -> G:\牛客网\C_Exercise\x64\Debug\C_Exercise.exe
+  C_Exercise.vcxproj -> G:\牛客网\C_Exercise\x64\Debug\C_Exercise.pdb (Full PDB)
